@@ -1,2 +1,2 @@
 # youtube
-Toute les classe pour les tutos
+Toutes les classes pour les tutos
